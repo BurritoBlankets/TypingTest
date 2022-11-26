@@ -1,0 +1,7 @@
+This .txt stores previous game stats
+To clear game stats place "0" in the following lines:
+line 5= Attempt, line 6= Accuracy, line 7= WPM
+
+0
+0
+0
