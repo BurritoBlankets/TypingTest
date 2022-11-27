@@ -1,4 +1,4 @@
-#TYPING TEST PROJECT; BY Pillo & John
+#TYPING TEST PROJECT; BY Jose (Pillo) Duenas-Lopez
 
 #To Change Timelimt enter value in sconds on line 152 & 255 as a PlayGame() argument
 
