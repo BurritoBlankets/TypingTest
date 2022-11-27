@@ -13,7 +13,7 @@ from time import time, sleep
 import math
 import textwrap
 import random
-print("\nPlease report any bugs to JGDL2003@gmail.com\nHappy Typing  (‘∇^d)")
+print("\nPlease report any bugs to Duenaslj@gmail.com\nHappy Typing")
 ############ARGUMENTATIVE FUNCTIONS############
 #(Makes Syntax Easier)
 
@@ -260,7 +260,7 @@ def PlayGame(TimeLimit):
 
 				AppendGameStats(Accuracy,WPM)#stores data in repo/GameStats.txt
 				from repo import MatPlot#Updates data
-				TimeUp(Accuracy,WPM,img)#opens time-Up window
+				TimeUp(Accuracy,WPM)#opens time-Up window
 
 def TimeUp(Accuracy,WPM):
 	#	Time is Up Screen:
